@@ -11,7 +11,7 @@
 
    echo("El mayor número entero representable en PHP es: " . PHP_INT_MAX);
 
-    // Con la constante $PHP_INT_MAX podemos acceder el valor entero mayor que se puede representar, 
+    // Con la constante PHP_INT_MAX podemos acceder el valor entero mayor que se puede representar, 
     //en sistemas con 32 bits el número es 2147483647, en el caso de sistemas de 64 bits el mayor
     //entero posible es 9223372036854775807
     
